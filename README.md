@@ -292,21 +292,15 @@ navController.popBackStack()
 
 ### Список контактів
 
-```markdown
 ![Список контактів](screenshots/contacts_list.png)
-```
 
 ### Додавання контакту
 
-```markdown
 ![Додавання контакту](screenshots/add_contact.png)
-```
 
 ### Деталі контакту
 
-```markdown
 ![Деталі контакту](screenshots/contact_details.png)
-```
 
 ---
 
