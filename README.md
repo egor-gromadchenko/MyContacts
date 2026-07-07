@@ -6,7 +6,9 @@
 
 ## Варіант
 
-**Варіант 2 — «Мої контакти»**
+Варіант 2
+Студент: Громадченко Єгор
+Група: АІ-233
 
 ## Мета роботи
 
@@ -551,23 +553,6 @@ details/{contactId}
 
 ## Скріншоти роботи застосунку
 
-Створіть у репозиторії папку:
-
-```text
-screenshots
-```
-
-Приклад структури:
-
-```text
-screenshots
-├── contacts_list.png
-├── add_contact.png
-├── contact_details.png
-├── edit_contact.png
-└── contacts_after_restart.png
-```
-
 ### Список контактів
 
 ```markdown
@@ -596,16 +581,6 @@ screenshots
 
 ```markdown
 ![Дані після перезапуску](screenshots/contacts_after_restart.png)
-```
-
----
-
-## Посилання на репозиторій
-
-> Додайте сюди посилання на GitHub-репозиторій.
-
-```text
-https://github.com/USERNAME/REPOSITORY_NAME
 ```
 
 ---
