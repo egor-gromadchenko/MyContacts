@@ -555,33 +555,33 @@ details/{contactId}
 
 ### Список контактів
 
-```markdown
+
 ![Список контактів](screenshots/contacts_list.png)
-```
+
 
 ### Додавання контакту
 
-```markdown
+
 ![Додавання контакту](screenshots/add_contact.png)
-```
+
 
 ### Деталі контакту
 
-```markdown
+
 ![Деталі контакту](screenshots/contact_details.png)
-```
+
 
 ### Редагування контакту
 
-```markdown
+
 ![Редагування контакту](screenshots/edit_contact.png)
-```
+
 
 ### Дані після повторного запуску
 
-```markdown
+
 ![Дані після перезапуску](screenshots/contacts_after_restart.png)
-```
+
 
 ---
 
